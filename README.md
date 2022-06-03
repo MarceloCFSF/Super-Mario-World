@@ -1,5 +1,7 @@
 # Super Mario World - Inteligência Artificial
 
+![Example](./example.gif)
+
 ## Enunciado
 
 Este diretório é o resultado de um projeto feito para a matéria de inteligência artificial da UFABC. O objetivo era criar um agente capaz de passar pela fase `Yoshi Island 2` do jogo `Super Mario World`.
